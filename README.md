@@ -2,11 +2,16 @@
 
 ###Instructions
 Please build the page so it matches the Photoshop PSD file using the guidelines below.
+
 We want to see how you build the page, so please do not use any page template libraries (such as the HTML5 Boilerplate).
+
 You are allowed to use a single JavaScript library such as jQuery or Mootools if you wish, but you must not use any other plugins or libraries (such as jQuery Validate).
+
 To assist you in your development, you are also allowed to install extension and developer tools such as Firebug and the Chrome Web Developer Toolbar.
+
 When submitting your test, please specify any tools you have used, including the editor you used to write your code.
-General requirements and considerations
+
+###General requirements and considerations
 Generally, you should build the web page in the way that you feel it should be built, however the following should be taken into consideration: 
 
 * Accessibility: 
@@ -23,12 +28,12 @@ Ensure you write neat, tidy JavaScript that you would consider suitable for a li
 
 * Browsers:
 The page should function and resemble the creative in the following web browsers:
-o	FireFox 3.6 and latest
-o	Internet Explorer 6, 7, 8 and 9
-o	Safari (latest)
-o	Google Chrome (latest)
-‘More Information’ form
+** FireFox 3.6 and latest
+** Internet Explorer 6, 7, 8 and 9
+** Safari (latest)
+** Google Chrome (latest)
 
+###‘More Information’ form
 The ‘More Information’ form should include client-side validation.
 
 The creative identifies what fields in the form are required, but there are also some additional levels of validation that should be implemented. The complete set of requirements regarding validation is as follows:
